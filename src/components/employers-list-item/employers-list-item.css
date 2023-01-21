@@ -62,3 +62,7 @@
 .list-group-item.increase .btn-star {
     color: #aeaeae;
 }
+
+.list-group-item input.is-invalid {
+    border: 5px solid #e5383b;
+}
